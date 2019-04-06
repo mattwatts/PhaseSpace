@@ -35,4 +35,4 @@ It has keyboard controls for cycling through different phase space objects, for 
 
 ## Included Files
 
-The app includes 8d to 14d phase space objects. Also included is the R code to generate 3d to 14d phase space object. Above 14d, my computer ran out of memory with 64gb or RAM.
+The app includes 8d to 14d phase space objects. Each included phase space file has every possible solution for a problem with that dimensionalidy. The 8d phase space has 2^8=256 solutions. The 14d phase space has 2^14=16384 solutions. Also included is the R code to generate 3d to 14d phase space object. The 14d phase space took a really long time to run. Above 14d, my computer ran out of memory with 64gb or RAM. It would be faster and more efficient to generate these in another language but I haven't had time to write the code yet.
