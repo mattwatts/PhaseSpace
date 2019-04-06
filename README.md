@@ -1,4 +1,4 @@
-# PhaseSpace
+# Phase Space
 
 The app does interactive visualisation of high dimensional objects mapped to 3D. It’s designed to visualise the phase space of optimisation problems.
 
