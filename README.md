@@ -20,18 +20,18 @@ Visually categorising phase spaces as ergodic or non-ergodic is a useful tool fo
 
 It has keyboard controls for cycling through different phase space objects, for rotating precisely in 3 dimensions, and for precisely zooming in and out. Solutions in a phase space can be colour coded for specific attributes, e.g. colour coded by cost or species representation. The controls allow a unique way to explore phase space topology. They also produce beautiful images and animations.
 
-Key           | What it does
---------------|----------------------
--             | Next 3d object (down)
-=             | Next 3d object (up)
-;             | Zoom Out
-/             | Zoom In
-(up arrow)    | Increase X axis
-(down arrow)  | Decrease X axis
-(left arrow)  | Decrease Y axis
-(right arrow) | Increase Y axis
-,             | Decrease Z axis
-.             | Increase Z axis
+|Key           | What it does         |
+|--------------|----------------------|
+|-             | Next 3d object (down)|
+|=             | Next 3d object (up)  |
+|;             | Zoom Out             |
+|/             | Zoom In              |
+|(up arrow)    | Increase X axis      |
+|(down arrow)  | Decrease X axis      |
+|(left arrow)  | Decrease Y axis      |
+|(right arrow) | Increase Y axis      |
+|,             | Decrease Z axis      |
+|.             | Increase Z axis      |
 
 # Included Files
 
