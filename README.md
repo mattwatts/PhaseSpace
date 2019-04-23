@@ -6,11 +6,13 @@ I did this work as an art project to create stunning visualisations of complex m
 
 ## Processing
 
-Phase Space uses Processing - a highly efficient language build on Java that does very efficient 3D graphics.
+Phase Space uses Processing - an efficient language build on Java that does efficient 3D graphics.
 
 Processing is a flexible software sketchbook and a language for the visual arts.
 
 https://processing.org/
+
+To run Phase Space you need to download and install Processing, then run Phase Space from Processing.
 
 ## Phase Space Topology
 
@@ -35,4 +37,4 @@ It has keyboard controls for cycling through different phase space objects, for 
 
 ## Included Files
 
-The app includes 8d to 14d phase space objects. Each included phase space file has every possible solution for a problem with that dimensionalidy. The 8d phase space has 2^8=256 solutions. The 14d phase space has 2^14=16384 solutions. Also included is the R code to generate 3d to 14d phase space object. The 14d phase space took a really long time to run. Above 14d, my computer ran out of memory with 64gb or RAM. It would be faster and more efficient to generate these in another language but I haven't had time to write the code yet.
+The app includes 8d to 14d phase space objects. Each included phase space file has every possible solution for a problem with that dimensionality. The 8d phase space has 2^8=256 solutions. The 14d phase space has 2^14=16384 solutions. Also included is the R code to generate 3d to 14d phase space object. The 14d phase space took a really long time to run. Above 14d, my computer ran out of memory with 64gb or RAM. It would be faster and more efficient to generate these in another language but I haven't had time to write the code yet.
